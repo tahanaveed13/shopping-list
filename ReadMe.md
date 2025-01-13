@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Milk
+- Xbox
+- PS5
+- Internship
